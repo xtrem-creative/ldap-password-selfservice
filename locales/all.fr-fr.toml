@@ -1,0 +1,32 @@
+[page-title]
+other = "Changement de mot de passe en libre-service"
+
+[username-label]
+other = "Nom d'utilisateur"
+
+[current-password-label]
+other = "Mot de passe actuel"
+
+[new-password-label]
+other = "Nouveau mot de passe"
+
+[confirm-password-label]
+other = "Confirmer le mot de passe"
+
+[change-password-btn]
+other = "Changer le mot de passe"
+
+[password-mismatch]
+other = "Le nouveau mot de passe ne correspond pas à sa confirmation."
+
+[invalid-credentials]
+other = "Identifiants invalides."
+
+[an-error-occurred]
+other = "Un erreur est survenue."
+
+[password-changed]
+other = "Mot de passe modifié !"
+
+[password-could-not-be-changed]
+other = "Le mot de passe ne peut pas être modifié : {{.}}"

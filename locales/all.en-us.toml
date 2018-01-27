@@ -1,0 +1,32 @@
+[page-title]
+other = "Self-service password change"
+
+[username-label]
+other = "Username"
+
+[current-password-label]
+other = "Current password"
+
+[new-password-label]
+other = "New password"
+
+[confirm-password-label]
+other = "Confirm password"
+
+[change-password-btn]
+other = "Change password"
+
+[password-mismatch]
+other = "The new password doesn't match its confirmation."
+
+[invalid-credentials]
+other = "Invalid credentials."
+
+[an-error-occurred]
+other = "An error occurred."
+
+[password-changed]
+other = "Password changed!"
+
+[password-could-not-be-changed]
+other = "Password could not be changed: {{.}}"

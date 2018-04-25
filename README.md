@@ -7,7 +7,7 @@ You are required to set the following ENV variables to make it work:
 
 ```bash
 # The LDAP address (with its port)
-SELFSERVICE_LDAP_URL="ldap.mydomain.ld:port"
+SELFSERVICE_LDAP_URL="ldap.mydomain.tld:port"
 # The LDAP server protocol method
 SELFSERVICE_LDAP_METHOD="tls" # plain or tls
 # The LDAP bind DN
